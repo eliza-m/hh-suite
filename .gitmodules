@@ -1,1 +1,4 @@
 
+[submodule "ffindex_soedinglab"]
+	path = ffindex_soedinglab
+	url = https://github.com/eliza-m/ffindex_soedinglab
